@@ -9,7 +9,7 @@ import javafx.scene.text.Text;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class HelloController {
+public class CalcController {
     @FXML
     private Label welcomeText;
 

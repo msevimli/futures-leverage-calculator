@@ -1,0 +1,117 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="leverageCalc.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/leverageCalc_main_jar</output-path>
+    <root id="archive" name="leverageCalc.main.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="leverageCalc.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/17.0.6/c1fee518f769b9e5c82461d52a2b102b35c65900/javafx-base-17.0.6-mac.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/17.0.6/9c133fcba12f11638717af542011c2742ff6b21e/javafx-fxml-17.0.6-mac.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/17.0.6/e3e8acb54f1f79a84dbecbade321c6f612c678bd/javafx-controls-17.0.6-mac.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/17.0.6/a71a20fc765c578c17e6bd6525c029b03286ff5e/javafx-graphics-17.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.json/json/20250107/a1b5f0b5a1ce018b93a691c57ffc7d141b3a10f1/json-20250107.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.36.0/227d4d4957ccc3dc5761bd897e3a0ee587e750a7/error_prone_annotations-2.36.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/17.0.6/dc6b99c55c37c25dd445835fd4fdbe0ae20d58b/javafx-graphics-17.0.6-mac.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.14/1194890e6f56ec29177673f2f12d0b8e627dec98/httpclient-4.5.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/17.0.6/8a9b91d717ec8bcdb179b91ae8a4f1137756fe3a/javafx-controls-17.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.12.1/4e773a317740b83b43cfc3d652962856041697cb/gson-2.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.16/51cf043c87253c9f58b539c9f7e44c8894223850/httpcore-4.4.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.11/3acb4705652e16236558f0f4f2192cc33c3bd189/commons-codec-1.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kordamp.bootstrapfx/bootstrapfx-core/0.4.0/8d019b30266c00770cf29921d1008ad7feed0ed6/bootstrapfx-core-0.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/17.0.6/808b77ecf79be87b304a78fa9fffad805bfdb9f5/javafx-base-17.0.6.jar" path-in-jar="/" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.1/lib/javafx-swt.jar" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.1/lib/javafx.base.jar" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.1/lib/javafx.controls.jar" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.1/lib/javafx.fxml.jar" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.1/lib/javafx.graphics.jar" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.1/lib/javafx.media.jar" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.1/lib/javafx.properties" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.1/lib/javafx.swing.jar" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.1/lib/javafx.web.jar" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.1/lib/libdecora_sse.dylib" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.1/lib/libfxplugins.dylib" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.1/lib/libglass.dylib" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.1/lib/libglib-lite.dylib" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.1/lib/libgstreamer-lite.dylib" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.1/lib/libjavafx_font.dylib" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.1/lib/libjavafx_iio.dylib" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.1/lib/libjfxmedia_avf.dylib" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.1/lib/libjfxmedia.dylib" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.1/lib/libjfxwebkit.dylib" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.1/lib/libprism_common.dylib" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.1/lib/libprism_es2.dylib" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.1/lib/libprism_sw.dylib" />
+      <element id="module-source" name="leverageCalc.main" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-console-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-console-l1-2-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-datetime-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-debug-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-errorhandling-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-file-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-file-l1-2-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-file-l2-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-handle-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-heap-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-interlocked-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-libraryloader-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-localization-l1-2-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-memory-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-namedpipe-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-processenvironment-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-processthreads-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-processthreads-l1-1-1.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-profile-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-rtlsupport-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-string-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-synch-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-synch-l1-2-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-sysinfo-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-timezone-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-core-util-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-crt-conio-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-crt-convert-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-crt-environment-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-crt-filesystem-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-crt-heap-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-crt-locale-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-crt-math-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-crt-multibyte-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-crt-private-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-crt-process-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-crt-runtime-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-crt-stdio-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-crt-string-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-crt-time-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/api-ms-win-crt-utility-l1-1-0.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/decora_sse.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/fxplugins.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/glass.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/glib-lite.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/gstreamer-lite.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/javafx_font.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/javafx_iio.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/jfxmedia.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/jfxwebkit.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/msvcp140_1.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/msvcp140_2.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/msvcp140.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/prism_common.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/prism_d3d.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/prism_sw.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/ucrtbase.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/vcruntime140_1.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/bin/vcruntime140.dll" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/lib/javafx-swt.jar" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/lib/javafx.base.jar" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/lib/javafx.controls.jar" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/lib/javafx.fxml.jar" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/lib/javafx.graphics.jar" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/lib/javafx.media.jar" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/lib/javafx.properties" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/lib/javafx.swing.jar" />
+      <element id="file-copy" path="$USER_HOME$/development/javafx-sdk-23.0.2-windows/lib/javafx.web.jar" />
+    </root>
+  </artifact>
+</component>
