@@ -43,6 +43,7 @@
                            <String fx:value="ETHUSDT" />
                            <String fx:value="SOLUSDT" />
                            <String fx:value="XRPUSDT" />
+                           <String fx:value="BNBUSDT" />
                        </FXCollections>
                    </items>
                   </ComboBox>
